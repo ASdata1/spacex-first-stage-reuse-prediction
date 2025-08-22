@@ -1,7 +1,7 @@
-## Overview
+# Overview
 In the commercial space industry, reusing rocket stages drastically reduces costs. SpaceX's Falcon 9 first stage can be recovered and reused for future launches, saving tens of millions of dollars per mission.
 
-# Space Y (a fictional competitor) needs to:
+## Space Y (a fictional competitor) needs to:
 
 Predict if a first stage will be recovered based on mission parameters.
 Estimate launch cost savings for competitive pricing.
